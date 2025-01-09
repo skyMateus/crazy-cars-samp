@@ -3,7 +3,6 @@
 ### NOVA VERSÃO MAIS OTIMIZADA: [CLIQUE AQUI](https://github.com/skyMateus/crazy-cars-samp/releases/tag/updates)
 
 # crazy-cars
-#### By: skyMateus
 > [🐮](https://github.com/skyMateus/animals-samp/blob/main/cow.pwn) 
 > [🦈](https://github.com/skyMateus/animals-samp/blob/main/shark.pwn)
 > [🐢](https://github.com/skyMateus/animals-samp/blob/main/turtle.pwn)
